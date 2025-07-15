@@ -1,5 +1,6 @@
 # color_detector
 Color detection and labeling using OpenCV and a custom CSV
+
 A simple Python project that detects the main colors in an image using OpenCV and labels them with real color names.
 
 # Files
