@@ -17,3 +17,5 @@ A simple Python project that detects the main colors in an image using OpenCV an
 - Pandas
 
 # Example Output 
+<img width="1917" height="1004" alt="output1" src="https://github.com/user-attachments/assets/64dfb2f6-b49b-4309-960d-c76f3f5ad6ea" />
+<img width="1920" height="1000" alt="output2" src="https://github.com/user-attachments/assets/7646ce69-463d-4869-99fc-27fa46a3303e" />
